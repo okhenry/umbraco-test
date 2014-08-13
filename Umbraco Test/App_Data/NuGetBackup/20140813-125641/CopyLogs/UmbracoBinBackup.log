@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed Aug 13 12:56:41 2014
+
+   Source : C:\Work Sync\New folder\Umbraco Test\Umbraco Test\bin\
+     Dest : C:\Work Sync\New folder\Umbraco Test\Umbraco Test\App_Data\NuGetBackup\20140813-125641\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Work Sync\New folder\Umbraco Test\Umbraco Test\bin\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Wed Aug 13 12:56:41 2014
